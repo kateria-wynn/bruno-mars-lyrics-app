@@ -1,3 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
 html {
-  background: url('./img/music.jpg');
+  background: url('./imgs/bubbly.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+body {
+  background: url('./imgs/music-transparent.png') no-repeat bottom left;
+  height: 100%;
+  background-size: 50%;
+  color: white;
+  display: flex;
+  align-items: center;
+  font-family: Montserrat;
 }
