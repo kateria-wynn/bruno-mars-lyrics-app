@@ -11,9 +11,13 @@ html {
 body {
   background: url('./imgs/music-transparent.png') no-repeat bottom left;
   height: 100%;
-  background-size: 50%;
+  background-size: 40%;
   color: white;
   display: flex;
   align-items: center;
   font-family: Montserrat;
+}
+h1 {
+  font-size: 48px;
+  margin: 10px 0 10px;
 }
