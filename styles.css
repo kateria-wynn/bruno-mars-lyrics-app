@@ -21,3 +21,9 @@ h1 {
   font-size: 48px;
   margin: 10px 0 10px;
 }
+h4 {
+  font-size: 36px;
+  font-weight: 400;
+  opacity: 0.66;
+  margin: 0;
+}
