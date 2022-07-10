@@ -10,9 +10,9 @@ html {
   height: 100vh;
 }
 body {
-  background: url('./imgs/music-transparent.png') no-repeat bottom left;
+  background: url('./imgs/music-transparent.png') no-repeat bottom right;
   height: 100%;
-  background-size: 50% 200px;
+  background-size: 50% 40%;
   color: white;
   display: flex;
   align-items: center;
@@ -39,7 +39,7 @@ h4 {
   width: 50%;
 }
 .inner-video {
-  margin-top: 10px;
+  margin-top: 20px;
   height: 300px;
   width: 100%;
   box-shadow: 10px 10px 50px rgba(255, 215, 0, 0.35);
