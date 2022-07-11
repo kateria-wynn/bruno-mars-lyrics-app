@@ -10,7 +10,7 @@ html {
   height: 100vh;
 }
 body {
-  background: url('./imgs/music-transparent.png') no-repeat bottom left;
+  background: url('./imgs/music-transparent.png') no-repeat bottom right;
   height: 100%;
   background-size: 50% 40%;
   color: white;
@@ -48,10 +48,10 @@ pre {
   font-family: Montserrat;
   height: 95%;
   overflow: scroll;
-  margin: 50px;
 }
 .lyrics-container {
   height: 100%;
+  width: 40%;
   background: rgba(0, 0, 0, 0.5);
   border-radius: 5px;
   line-height: 35px;
